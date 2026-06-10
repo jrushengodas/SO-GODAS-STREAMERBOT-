@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jrushengodas/SO-GODAS-STREAMERBOT/main/assets/logo.jpg" width="400">
+  <img src="https://raw.githubusercontent.com/jrushengodas/YTM-GODAS-STREAMERBOT/main/assets/logo.jpg" width="400">
 </p>
 
 <h1 align="center">Godas Twitch Shoutout</h1>
