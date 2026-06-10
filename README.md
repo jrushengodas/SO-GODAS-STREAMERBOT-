@@ -100,7 +100,7 @@ Example :
 # Message Examples
 
 ```text
-The kingdom strongly recommends a visit to Jungpoo97.
+The kingdom strongly recommends a visit to Benjyyi.
 
 Godas scouts have spotted Benjyyi streaming again.
 
