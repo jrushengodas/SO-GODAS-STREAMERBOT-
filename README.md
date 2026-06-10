@@ -307,69 +307,6 @@ Twitch only allows official shoutouts when :
 ✅ Correct moderator account
 ```
 
-If Twitch returns :
-
-```text
-400 Bad Request
-
-The broadcaster is not streaming live
-or does not have one or more viewers.
-```
-
-The script is still working correctly.
-
-The Twitch Announcement will continue to be sent even if the Official Shoutout is blocked.
-
----
-
-# Troubleshooting
-
-## Official Shoutout Not Working
-
-Check :
-
-```text
-- Stream is live
-- At least 1 viewer
-- Correct broadcaster ID
-- Correct moderator ID
-- Correct token scopes
-- Bot account is moderator
-```
-
----
-
-## 403 Forbidden
-
-Usually means :
-
-```text
-- Missing scopes
-- Wrong moderator account
-- Wrong moderator ID
-- Bot account is not moderator
-```
-
----
-
-## User Not Found
-
-Correct :
-
-```text
-!so Benjyyi
-```
-
-Wrong :
-
-```text
-!so https://twitch.tv/benjyyi
-```
-
-Use only the Twitch username.
-
----
-
 # Technologies
 
 ```text
