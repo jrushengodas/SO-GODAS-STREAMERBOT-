@@ -1,22 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jrushengodas/SO-GODAS-STREAMERBOT/main/assets/logo.jpg" width="400">
-</p>
-
-<h1 align="center">Godas Twitch Shoutout</h1>
-
-<p align="center">
-  Advanced Twitch Shoutout System for Streamer.bot
-  <br>
-  Official Twitch Shoutouts + Announcements + Randomized Messages
-</p>
-
-<p align="center">
-  <a href="https://github.com/jrushengodas/SO-GODAS-STREAMERBOT/releases/latest/download/SO-GODAS-STREAMERBOT.zip">
-    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD-COMPLETE_PACKAGE-00ff99?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/status-stable-green">
   <img src="https://img.shields.io/badge/version-1.0-blue">
   <img src="https://img.shields.io/badge/Streamer.bot-compatible-purple">
