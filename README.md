@@ -389,14 +389,6 @@ Use only the Twitch username.
 Godas DEV
 ```
 
-### Community Testing
-
-```text
-Godas Community
-```
-
----
-
 <p align="center">
   <strong>Godas Twitch Shoutout</strong>
   <br>
