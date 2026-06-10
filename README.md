@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jrushengodas/SO-GODAS-STREAMERBOT-/releases/latest">
-    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD-LATEST_RELEASE-00ff99?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/jrushengodas/SO-GODAS-STREAMERBOT-/releases/latest/download/godas-twitch-shoutout.zip">
+    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD-COMPLETE_PACKAGE-00ff99?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
