@@ -260,8 +260,8 @@ godas_so_moderator_id = Streamer ID
 Example :
 
 ```text
-012345678
-012345678
+247012777
+247012777
 ```
 
 Both values are identical.
