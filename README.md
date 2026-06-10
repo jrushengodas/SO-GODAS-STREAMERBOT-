@@ -1,14 +1,4 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/status-stable-green">
-  <img src="https://img.shields.io/badge/version-1.0-blue">
-  <img src="https://img.shields.io/badge/Streamer.bot-compatible-purple">
-  <img src="https://img.shields.io/badge/Twitch_API-supported-red">
-  <img src="https://img.shields.io/badge/Open_Source-yes-orange">
-</p>
-
----
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/jrushengodas/SO-GODAS-STREAMERBOT/main/assets/logo.jpg" width="400">
 </p>
 
