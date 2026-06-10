@@ -100,15 +100,15 @@ Example :
 # Message Examples
 
 ```text
-👑 The kingdom strongly recommends a visit to Jungpoo97.
+The kingdom strongly recommends a visit to Jungpoo97.
 
-⚔️ Godas scouts have spotted Jungpoo97 streaming again.
+Godas scouts have spotted Benjyyi streaming again.
 
-📡 Transmission intercepted. Jungpoo97 was recently seen playing Sea of Thieves.
+Transmission intercepted. Benjyyi was recently seen playing Sea of Thieves.
 
-🚨 Investigation opened. Evidence points toward Jungpoo97.
+Investigation opened. Evidence points toward Benjyyi.
 
-🏰 The council is still debating whether Jungpoo97 is a genius or a public danger.
+The council is still debating whether Benjyyi is a genius or a public danger.
 ```
 
 Messages are randomized automatically.
@@ -260,8 +260,8 @@ godas_so_moderator_id = Streamer ID
 Example :
 
 ```text
-247012777
-247012777
+012345678
+012345678
 ```
 
 Both values are identical.
@@ -357,13 +357,13 @@ Usually means :
 Correct :
 
 ```text
-!so jungpoo97
+!so Benjyyi
 ```
 
 Wrong :
 
 ```text
-!so https://twitch.tv/jungpoo97
+!so https://twitch.tv/benjyyi
 ```
 
 Use only the Twitch username.
